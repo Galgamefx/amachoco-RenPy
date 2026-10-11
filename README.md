@@ -13,3 +13,17 @@ NC（Non Commercial，非商业性）：您可自由地分享本作品，但您�
 ND（No Derivatives，禁止改编）：你可自由地分享本作品，但您不得合成、转换和改造以及改编本作品。
 
 也就是如果您要**借鉴复制本库的代码**等的行为（不包括本作品的改编再发布），你可以在相关页面内**注明/感谢**创作者
+
+## 贡献
+
+制作人：Galgame分享
+
+特别感谢：deepseek（renpy函数一些实现建议）
+
+使用到的开源工具：[Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)（分析函数参数作用）、[GARbro](https://github.com/morkt/GARbro)
+
+## 注意事项
+
+第一次尝试跨引擎移植，还没有做完，会逐步完善内容
+
+使用8.5.3版本的renpy
