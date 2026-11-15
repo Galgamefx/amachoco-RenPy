@@ -1,0 +1,673 @@
+{
+ "pages": [
+  0,
+  1,
+  4,
+  5
+ ],
+ "groups": [
+  {
+   "page": 0,
+   "index": 0,
+   "thumb": "AC_tmb_ev101",
+   "cgs": [
+    "ev101a",
+    "ev101b",
+    "ev101c",
+    "ev101d",
+    "ev101e",
+    "ev101f",
+    "ev101g",
+    "ev101h"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 1,
+   "thumb": "AC_tmb_ev102",
+   "cgs": [
+    "ev102a",
+    "ev102b"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 2,
+   "thumb": "AC_tmb_ev103",
+   "cgs": [
+    "ev103a",
+    "ev103b"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 3,
+   "thumb": "AC_tmb_ev104",
+   "cgs": [
+    "ev104a",
+    "ev104b",
+    "ev104c",
+    "ev104d",
+    "ev104e"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 4,
+   "thumb": "AC_tmb_ev105",
+   "cgs": [
+    "ev105a",
+    "ev105b",
+    "ev105c",
+    "ev105d"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 5,
+   "thumb": "AC_tmb_ev106",
+   "cgs": [
+    "ev106a",
+    "ev106b",
+    "ev106c",
+    "ev106d"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 6,
+   "thumb": "AC_tmb_ev107",
+   "cgs": [
+    "ev107a",
+    "ev107b",
+    "ev107c",
+    "ev107d",
+    "ev107e"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 7,
+   "thumb": "AC_tmb_ev108",
+   "cgs": [
+    "ev108a",
+    "ev108b",
+    "ev108c"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 8,
+   "thumb": "AC_tmb_ev109",
+   "cgs": [
+    "ev109a",
+    "ev109b",
+    "ev109c",
+    "ev109d"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 9,
+   "thumb": "AC_tmb_ev110",
+   "cgs": [
+    "ev110a",
+    "ev110b",
+    "ev110c"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 10,
+   "thumb": "AC_tmb_ev111",
+   "cgs": [
+    "ev111a",
+    "ev111b",
+    "ev111c",
+    "ev111d",
+    "ev111e"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 11,
+   "thumb": "AC_tmb_ev112",
+   "cgs": [
+    "ev112a"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 12,
+   "thumb": "AC_tmb_hv101",
+   "cgs": [
+    "hv101a",
+    "hv101b",
+    "hv101c",
+    "hv101d",
+    "hv101e",
+    "hv101f",
+    "hv101g",
+    "hv101h"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 13,
+   "thumb": "AC_tmb_hv102",
+   "cgs": [
+    "hv102a",
+    "hv102b",
+    "hv102c",
+    "hv102d",
+    "hv102e",
+    "hv102f",
+    "hv102g"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 14,
+   "thumb": "AC_tmb_hv103",
+   "cgs": [
+    "hv103a",
+    "hv103b",
+    "hv103c",
+    "hv103d",
+    "hv103e",
+    "hv103f",
+    "hv103g"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 15,
+   "thumb": "AC_tmb_hv104",
+   "cgs": [
+    "hv104a",
+    "hv104b",
+    "hv104c",
+    "hv104d",
+    "hv104e"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 16,
+   "thumb": "AC_tmb_hv105",
+   "cgs": [
+    "hv105a",
+    "hv105b",
+    "hv105c",
+    "hv105d",
+    "hv105e",
+    "hv105f",
+    "hv105g"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 17,
+   "thumb": "AC_tmb_hv106",
+   "cgs": [
+    "hv106a",
+    "hv106b",
+    "hv106c",
+    "hv106d",
+    "hv106e",
+    "hv106f"
+   ]
+  },
+  {
+   "page": 0,
+   "index": 18,
+   "thumb": "AC_tmb_hv107",
+   "cgs": [
+    "hv107a",
+    "hv107b",
+    "hv107c",
+    "hv107d",
+    "hv107e",
+    "hv107f",
+    "hv107g",
+    "hv107h"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 0,
+   "thumb": "AC_tmb_ev201",
+   "cgs": [
+    "ev201a",
+    "ev201b",
+    "ev201c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 1,
+   "thumb": "AC_tmb_ev202",
+   "cgs": [
+    "ev202a",
+    "ev202b",
+    "ev202c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 2,
+   "thumb": "AC_tmb_ev203",
+   "cgs": [
+    "ev203a",
+    "ev203b",
+    "ev203c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 3,
+   "thumb": "AC_tmb_ev204",
+   "cgs": [
+    "ev204a",
+    "ev204b"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 4,
+   "thumb": "AC_tmb_ev205",
+   "cgs": [
+    "ev205a",
+    "ev205b",
+    "ev205c",
+    "ev205d"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 5,
+   "thumb": "AC_tmb_ev206",
+   "cgs": [
+    "ev206a",
+    "ev206b",
+    "ev206c",
+    "ev206d"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 6,
+   "thumb": "AC_tmb_ev207",
+   "cgs": [
+    "ev207a",
+    "ev207b",
+    "ev207c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 7,
+   "thumb": "AC_tmb_ev208",
+   "cgs": [
+    "ev208a",
+    "ev208b",
+    "ev208c",
+    "ev208d",
+    "ev208e"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 8,
+   "thumb": "AC_tmb_ev209",
+   "cgs": [
+    "ev209a",
+    "ev209b",
+    "ev209c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 9,
+   "thumb": "AC_tmb_ev210",
+   "cgs": [
+    "ev210a",
+    "ev210b",
+    "ev210c"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 10,
+   "thumb": "AC_tmb_ev211",
+   "cgs": [
+    "ev211a",
+    "ev211b",
+    "ev211c",
+    "ev211d",
+    "ev211e"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 11,
+   "thumb": "AC_tmb_ev212",
+   "cgs": [
+    "ev212a",
+    "ev212b"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 12,
+   "thumb": "AC_tmb_hv201",
+   "cgs": [
+    "hv201a",
+    "hv201b",
+    "hv201c",
+    "hv201d",
+    "hv201e",
+    "hv201f",
+    "hv201g"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 13,
+   "thumb": "AC_tmb_hv202",
+   "cgs": [
+    "hv202a",
+    "hv202b",
+    "hv202c",
+    "hv202d",
+    "hv202e",
+    "hv202f"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 14,
+   "thumb": "AC_tmb_hv203",
+   "cgs": [
+    "hv203a",
+    "hv203b",
+    "hv203c",
+    "hv203d",
+    "hv203e"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 15,
+   "thumb": "AC_tmb_hv204",
+   "cgs": [
+    "hv204a",
+    "hv204b",
+    "hv204c",
+    "hv204d",
+    "hv204e",
+    "hv204f"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 16,
+   "thumb": "AC_tmb_hv205",
+   "cgs": [
+    "hv205a",
+    "hv205b",
+    "hv205c",
+    "hv205d",
+    "hv205e"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 17,
+   "thumb": "AC_tmb_hv206",
+   "cgs": [
+    "hv206a",
+    "hv206b",
+    "hv206c",
+    "hv206d",
+    "hv206e",
+    "hv206f",
+    "hv206g"
+   ]
+  },
+  {
+   "page": 1,
+   "index": 18,
+   "thumb": "AC_tmb_hv207",
+   "cgs": [
+    "hv207a",
+    "hv207b",
+    "hv207c",
+    "hv207d",
+    "hv207e",
+    "hv207f"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 0,
+   "thumb": "AC_tmb_hv001",
+   "cgs": [
+    "hv001a",
+    "hv001b",
+    "hv001c",
+    "hv001d",
+    "hv001e",
+    "hv001f",
+    "hv001g",
+    "hv001h",
+    "hv001i"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 1,
+   "thumb": "AC_tmb_hv002",
+   "cgs": [
+    "hv002a",
+    "hv002b",
+    "hv002c",
+    "hv002d",
+    "hv002e",
+    "hv002f",
+    "hv002g",
+    "hv002h"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 2,
+   "thumb": "AC_tmb_mv001",
+   "cgs": [
+    "mv001"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 3,
+   "thumb": "AC_tmb_mv002",
+   "cgs": [
+    "mv002"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 4,
+   "thumb": "AC_tmb_mv003",
+   "cgs": [
+    "mv003"
+   ]
+  },
+  {
+   "page": 4,
+   "index": 5,
+   "thumb": "AC_tmb_mv004",
+   "cgs": [
+    "mv004"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 0,
+   "thumb": "AC_tmb_bg01_",
+   "cgs": [
+    "bg01DAY",
+    "bg01EVE",
+    "bg01LIG",
+    "bg01NIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 1,
+   "thumb": "AC_tmb_bg02_",
+   "cgs": [
+    "bg02DAY",
+    "bg02LIG",
+    "bg02LIG_sp"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 2,
+   "thumb": "AC_tmb_bg03_",
+   "cgs": [
+    "bg03DAY",
+    "bg03LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 3,
+   "thumb": "AC_tmb_bg04_",
+   "cgs": [
+    "bg04DAY"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 4,
+   "thumb": "AC_tmb_bg11_",
+   "cgs": [
+    "bg11DAY",
+    "bg11EVE",
+    "bg11LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 5,
+   "thumb": "AC_tmb_bg12_",
+   "cgs": [
+    "bg12DAY"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 6,
+   "thumb": "AC_tmb_bg13_",
+   "cgs": [
+    "bg13DAY",
+    "bg13LIG_a"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 7,
+   "thumb": "AC_tmb_bg14_",
+   "cgs": [
+    "bg14DAY"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 8,
+   "thumb": "AC_tmb_bg21_",
+   "cgs": [
+    "bg21DAY",
+    "bg21LIG",
+    "bg21NIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 9,
+   "thumb": "AC_tmb_bg22_",
+   "cgs": [
+    "bg22DAY"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 10,
+   "thumb": "AC_tmb_bg23_",
+   "cgs": [
+    "bg23DAY",
+    "bg23LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 11,
+   "thumb": "AC_tmb_bg24_",
+   "cgs": [
+    "bg24DAY",
+    "bg24LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 12,
+   "thumb": "AC_tmb_bg31_",
+   "cgs": [
+    "bg31DAY",
+    "bg31EVE",
+    "bg31LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 13,
+   "thumb": "AC_tmb_bg32_",
+   "cgs": [
+    "bg32DAY",
+    "bg32EVE",
+    "bg32LIG"
+   ]
+  },
+  {
+   "page": 5,
+   "index": 14,
+   "thumb": "AC_tmb_bg34_",
+   "cgs": [
+    "bg34DAY",
+    "bg34EVE",
+    "bg34LIG"
+   ]
+  }
+ ],
+ "music": [
+  "BGM001",
+  "BGM002",
+  "BGM003",
+  "BGM004",
+  "BGM005",
+  "BGM011",
+  "BGM012",
+  "BGM013",
+  "BGM101",
+  "BGM102",
+  "BGM103",
+  "BGM104",
+  "BGM105",
+  "BGM201",
+  "BGM202",
+  "BGM401",
+  "BGM501"
+ ]
+}
